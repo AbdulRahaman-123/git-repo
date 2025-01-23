@@ -26,3 +26,20 @@
   height: 100px;
   border-radius: 50%;
 }
+
+#fs-1 {
+  font-size: 1.5rem;
+  color: aquamarine;
+}
+.custom-card-size {
+  height: 100%; /* Ensure the card takes up the full height of its container */
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-card-size .card-body {
+  flex: 1; /* Allow the card body to grow and fill the available space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
