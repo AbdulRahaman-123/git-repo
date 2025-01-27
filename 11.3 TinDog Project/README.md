@@ -1,4 +1,4 @@
-# TinDog Project
+# My Anime Suggestions
 
 ## SVGs:
 
